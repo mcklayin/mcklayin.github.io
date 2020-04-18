@@ -474,3 +474,7 @@ input.error, textarea.error {
 .mfp-close{
 	outline:none;
 }
+
+#contact .contacts-list span {
+	color: yellow;
+}
